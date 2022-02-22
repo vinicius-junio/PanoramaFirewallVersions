@@ -22,8 +22,8 @@ Functionalities
 - URL or port not found error handling:
 If a URL or PORT is wrong, it will generate the text file "error_panorama.log" which will be in the same directory as the Python Script.
 Example Error log: 2022-01-22 19:33:34 WARNING URL Panorama Failed: https://111.222.333.54:444" (the port 3 is missing);
-- Excel file formatting:
-Table Formatting, Table Name (Firewall): "Firewall" and Sheet Name "PanoramaFirewalls";
+- Excel file formatting:<br/>
+Table Formatting, Table Name (Firewall): "Firewall" and Sheet Name "PanoramaFirewalls";<br/>
 Table Formatting, Table Name (Licenses): "Licenses" and Sheet Name "PanoramaLicens".
 
 Requisites

@@ -197,7 +197,7 @@ def main():
             licenses.insert_information_license(response)
 
         except Exception as e:
-            logging.warning("Falha na url Panorama: {}".format(url))
+            logging.warning("URL Panorama Failed: {}".format(url))
 
     firewalls.insert_format()
     firewalls.close()

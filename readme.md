@@ -24,7 +24,7 @@ If a URL or PORT is wrong, it will generate the text file "error_panorama.log" w
 Example Error log: 2022-01-22 19:33:34 WARNING URL Panorama Failed: https://111.222.333.54:444" (the port 3 is missing);
 - Excel file formatting:<br/>
 Table Formatting, Table Name (Firewall): "Firewall" and Sheet Name "PanoramaFirewalls";<br/>
-Table Formatting, Table Name (Licenses): "Licenses" and Sheet Name "PanoramaLicens".
+Table Formatting, Table Name (Licenses): "Licenses" and Sheet Name "PanoramaLicenses".
 
 Requisites
 ============

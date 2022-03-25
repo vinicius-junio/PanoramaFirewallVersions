@@ -33,7 +33,7 @@ Requisites
 How To Use
 ============
 - Insert the IP listing of the Panorama in the "ip_list_panorama.txt" file;
-- Insert the username and password with "Superuser" and (MXL/API) permissions in "main.py";
+- Insert the username and password with "Superuser" and (XML/API) permissions in "main.py";
 - Execute the Script to generate .xlsx file to Firewall Info and Licenses.
 
 
